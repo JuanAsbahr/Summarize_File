@@ -39,6 +39,6 @@ internal class Program
             Console.WriteLine("Error!");
             Console.WriteLine(ex.Message);
         }
-        
+
     }
 }
